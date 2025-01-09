@@ -50,6 +50,7 @@ export default function App() {
       e.preventDefault()
       setWordToGuess(getWord())
       setGuessedLetters([])
+      setIsShowHint(false)
     }
 
     document.addEventListener('keydown', handler)

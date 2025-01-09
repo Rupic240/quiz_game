@@ -1,22 +1,42 @@
 [
     {
-        "img": "./apple.png",
+        "img": "./apple.svg",
         "word": "apple"
     },
     {
-        "img": "./owl.png",
+        "img": "./owl.svg",
         "word": "owl"
     },
     {
-        "img": "./lime.png",
+        "img": "./lime.svg",
         "word": "lime"
     },
     {
-        "img": "./lion.png",
+        "img": "./lion.svg",
         "word": "lion"
     },
     {
-        "img": "./dog.png",
+        "img": "./dog.svg",
         "word": "dog"
+    },
+    {
+        "img": "./shark.svg",
+        "word": "shark"
+    },
+    {
+        "img": "./icecream.svg",
+        "word": "icecream"
+    },
+    {
+        "img": "./orange.svg",
+        "word": "orange"
+    },
+    {
+        "img": "./sheep.svg",
+        "word": "sheep"
+    },
+    {
+        "img": "./leaf.svg",
+        "word": "leaf"
     }
 ]
