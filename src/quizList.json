@@ -1,0 +1,22 @@
+[
+    {
+        "img": "./apple.png",
+        "word": "apple"
+    },
+    {
+        "img": "./owl.png",
+        "word": "owl"
+    },
+    {
+        "img": "./lime.png",
+        "word": "lime"
+    },
+    {
+        "img": "./lion.png",
+        "word": "lion"
+    },
+    {
+        "img": "./dog.png",
+        "word": "dog"
+    }
+]
